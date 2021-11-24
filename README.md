@@ -1,2 +1,2 @@
-# DIY-CO2-Warner
+# CO2-Warner
 DIY-CO2-Warner
