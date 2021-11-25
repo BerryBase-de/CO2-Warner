@@ -33,7 +33,7 @@ The hardware used here for the project:
 The project requires the [Arduino IDE](https://www.arduino.cc/en/software) in the current version and the following libraries including dependencies:
 - [x] Adafruit SCD30 
 - x] Adafruit ST7735 and ST7789 Library
-- x] Adafruit Zero DMA
-- x] Adafruit SPIFlash
+- [x] Adafruit Zero DMA
+- [x] Adafruit SPIFlash
 - [x] SdFat - Adafruit Fork
 - [x] Adafruit_BME280_Library
