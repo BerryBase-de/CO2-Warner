@@ -23,16 +23,16 @@ This is the extension of the [DIY CO2 traffic light with the MH-Z19C](https://ww
 ## Hardware needed
 The hardware used here for the project:
 - [x] D1 Mini
-- x] BME 280
-- X] Adafruit SCD-30 - NDIR CO2 temperature and humidity sensor 
-- X] Adafruit 1.69 inch 280×240 rounded rectangular color IPS TFT display 
-- X] Dupont cable
-- X] Breadboard with 400 contacts
+- [x] BME 280
+- [X] Adafruit SCD-30 - NDIR CO2 temperature and humidity sensor 
+- [X] Adafruit 1.69 inch 280×240 rounded rectangular color IPS TFT display 
+- [X] Dupont cable
+- [X] Breadboard with 400 contacts
 
 ## Software
 The project requires the [Arduino IDE](https://www.arduino.cc/en/software) in the current version and the following libraries including dependencies:
 - [x] Adafruit SCD30 
-- x] Adafruit ST7735 and ST7789 Library
+- [x] Adafruit ST7735 and ST7789 Library
 - [x] Adafruit Zero DMA
 - [x] Adafruit SPIFlash
 - [x] SdFat - Adafruit Fork
