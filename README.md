@@ -1,3 +1,5 @@
+![Schema](images/Title.jpg)
+
 # DIY-CO2-Ampel - German
 Dies ist die Erweiterung der [DIY CO2-Ampel mit dem MH-Z19C](https://www.blog.berrybase.de/blog/2021/02/16/diy-co2-ampel-mit-dem-mh-z19c/) des Autors [Maik Rygiel](https://www.blog.berrybase.de/blog/author/maik-rygiel/).
 ## Benötigte Hardware
@@ -18,6 +20,14 @@ Für das Projekt wird die [Arduino IDE](https://www.arduino.cc/en/software) in d
 - [x]	SdFat - Adafruit Fork
 - [x]	Adafruit_BME280_Library
 
+## Verdrahtung
+Im folgenden der kurze Zusammenbau der Schaltung
+![Wiring](images/1_Wiring.jpg)
+
+## Software auf den D1 Mini flashen
+Kopieren Sie dieses Repository und extrahieren Sie die zip an einen Ort auf ihrem PC. Öffnen Sie danach im Ordner CO2-Warner die
+gleichnamige CO2-Warner.ino-Datei. Die bitmap.h muss ebenfalls im gleichen Verzeichnis bleiben.
+
 # DIY-CO2-Warner - English
 This is the extension of the [DIY CO2 traffic light with the MH-Z19C](https://www.blog.berrybase.de/blog/2021/02/16/diy-co2-ampel-mit-dem-mh-z19c/) by the author [Maik Rygiel](https://www.blog.berrybase.de/blog/author/maik-rygiel/).
 ## Hardware needed
@@ -37,3 +47,11 @@ The project requires the [Arduino IDE](https://www.arduino.cc/en/software) in th
 - [x] Adafruit SPIFlash
 - [x] SdFat - Adafruit Fork
 - [x] Adafruit_BME280_Library
+
+## Wiring
+In the following the short assembly of the circuit
+![Wiring](images/1_Wiring.jpg)
+
+## Flashing the software to the D1 Mini
+Copy this repository and extract the zip to a location on your PC. After that open in the folder CO2-Warner the
+CO2-Warner.ino file with the same name. The bitmap.h must also remain in the same directory.
