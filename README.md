@@ -1,4 +1,4 @@
-![Schema](images/Title.jpg)
+![Schema](images/Titel.jpg)
 
 # DIY-CO2-Ampel - German
 Dies ist die Erweiterung der [DIY CO2-Ampel mit dem MH-Z19C](https://www.blog.berrybase.de/blog/2021/02/16/diy-co2-ampel-mit-dem-mh-z19c/) des Autors [Maik Rygiel](https://www.blog.berrybase.de/blog/author/maik-rygiel/).
